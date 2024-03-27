@@ -1,6 +1,6 @@
 <h1 align="center">Hi ??, I'm KAPIL</h1>
 
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/xYuySmQB5peRKrHWA"/>"
+<img align="right" alt="Coding" width="400" src="[https://images.app.goo.gl/xYuySmQB5peRKrHWA](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)"/>"
 
 <h3 align="center">A passionate developer and Budding AI&ML engineer from India</h3>
 
